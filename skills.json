@@ -1,0 +1,29 @@
+{
+    "skills_keywords": [
+      "Python", "Java", "C++", "JavaScript", "C#", "Ruby", "Swift", "Kotlin",
+      "PHP", "TypeScript", "R", "SQL", "Go", "Rust", "Scala", "HTML", "CSS",
+      "Bash", "PowerShell", "MATLAB", "Perl", "Objective-C", "Shell scripting",
+      "Django", "Flask", "React", "Angular", "Vue.js", "Node.js", "Express.js",
+      "Spring", "Hibernate", "Laravel", "Ruby on Rails", "ASP.NET",
+      "TensorFlow", "Keras", "PyTorch", "Scikit-learn", "OpenCV",
+      "Pandas", "NumPy", "Matplotlib", "Seaborn", "NLTK", "SpaCy",
+      "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "GitLab", "CI/CD",
+      "AWS", "Azure", "Google Cloud Platform", "Heroku", "Firebase", "Terraform",
+      "Ansible", "Chef", "Puppet", "VMware", "Hyper-V", "VirtualBox",
+      "MySQL", "PostgreSQL", "MongoDB", "SQLite", "Redis", "Cassandra", "Elasticsearch",
+      "GraphQL", "REST APIs", "SOAP", "JSON", "XML", "gRPC",
+      "Agile", "Scrum", "Kanban", "Lean", "Test-Driven Development (TDD)",
+      "Behavior-Driven Development (BDD)", "Continuous Integration (CI)",
+      "Continuous Deployment (CD)", "Object-Oriented Programming (OOP)",
+      "Functional Programming", "Microservices", "Monolithic Architecture",
+      "Design Patterns", "SOLID Principles", "Version Control", "Automated Testing",
+      "Unit Testing", "Integration Testing", "End-to-End Testing",
+      "Data Structures", "Algorithms", "Database Design", "SQL Query Optimization",
+      "Cloud Architecture", "DevOps", "System Administration", "Network Security",
+      "Cybersecurity", "Penetration Testing", "Load Balancing", "High Availability",
+      "Scalability", "Performance Tuning", "Responsive Design", "User Experience (UX)",
+      "User Interface (UI)", "Wireframing", "Prototyping", "Adobe XD", "Figma",
+      "InVision", "Sketch", "Machine Learning"
+    ]
+  }
+  

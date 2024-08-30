@@ -1,0 +1,22 @@
+{
+    "roles": [
+      "Software Engineer", "Developer", "Data Scientist", "Data Analyst", "Machine Learning Engineer",
+      "Backend Developer", "Frontend Developer", "Full Stack Developer", "Web Developer", "Mobile Developer",
+      "Project Manager", "Product Manager", "Business Analyst", "Systems Analyst", "UX Designer",
+      "UI Designer", "Graphic Designer", "DevOps Engineer", "Network Engineer", "Database Administrator",
+      "Systems Administrator", "QA Engineer", "Test Engineer", "Security Analyst", "Cybersecurity Specialist",
+      "IT Support Specialist", "Technical Writer", "Research Scientist", "Engineering Manager", "Technical Lead",
+      "Consultant", "Sales Engineer", "Customer Success Manager", "Solutions Architect", "Cloud Engineer",
+      "Site Reliability Engineer", "Game Developer", "Embedded Systems Engineer", "Automation Engineer", "Build Engineer",
+      "Electronics Engineer", "Research Engineer", "Cloud Solutions Architect", "Digital Marketing Specialist", "SEO Specialist"
+    ],
+    "companies": [
+      "Google", "Microsoft", "Apple", "Amazon", "Facebook", "IBM", "Oracle", "Intel", "Samsung", "NVIDIA",
+      "Adobe", "Salesforce", "SAP", "Twitter", "LinkedIn", "Uber", "Airbnb", "Dropbox", "Netflix", "Stripe",
+      "PayPal", "Square", "Shopify", "Zendesk", "ServiceNow", "Red Hat", "VMware", "Spotify", "Slack", "Zoom",
+      "Palantir", "Atlassian", "Trello", "Hewlett Packard Enterprise", "Cisco", "Dell", "HP Inc.", "Lenovo", "Huawei",
+      "Qualcomm", "Salesforce", "GitHub", "Elastic", "GitLab", "MongoDB", "Tableau", "Cloudera", "Snowflake",
+      "Databricks", "SAS", "Jupyter", "OpenAI", "DeepMind", "Tesla", "SpaceX", "NASA", "Ford", "General Motors"
+    ]
+  }
+  
