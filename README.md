@@ -38,3 +38,6 @@ python -m spacy download en_core_web_lg
 - Input the path of the resume's **OCR** pdf.
 - Paste in the job description
 - A markdown file will be generated with the scores and analysis. Use <a href="https://markdownlivepreview.com/">this website</a> to paste in and view the markdown file.
+
+## Todo
+- [ ] Add exception handling
