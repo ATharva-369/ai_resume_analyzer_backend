@@ -25,6 +25,10 @@ The AI-Powered Resume Analyzer is a Python-based tool designed to analyze resume
 ```bash
 pip install -r requirements.txt
 ```
+### Install spaCY model
+```bash
+python -m spacy download en_core_web_lg
+```
 ### Get API key
 - Get an API key from <a href="https://aistudio.google.com/app/apikey">here</a>.
 - Create an .env file in the same directory and put this in the file: **API_KEY = YOUR API KEY**
