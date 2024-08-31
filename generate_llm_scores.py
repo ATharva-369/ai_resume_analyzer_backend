@@ -1,4 +1,4 @@
-def generate_llm_scores(job_description):
+def generate_llm_scores(job_description,resume):
     import google.generativeai as genai
     import os
     from dotenv import load_dotenv
@@ -9,7 +9,7 @@ def generate_llm_scores(job_description):
     model = genai.GenerativeModel("gemini-1.5-flash")
 
     # Upload the file and print a confirmation
-    sample_file = genai.upload_file(path="resume.pdf",
+    sample_file = genai.upload_file(path=resume,
                                     display_name="Resume")
 
     print(f"Uploaded file '{sample_file.display_name}' as: {sample_file.uri}")

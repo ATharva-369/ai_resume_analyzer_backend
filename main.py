@@ -7,15 +7,15 @@ import re
 from generate_llm_scores import generate_llm_scores
 
 
+resume = input("What is the file's path? ")
 
-def parser():
+def parser(resume):
 
     nlp = spacy.load("en_core_web_lg")
 
 
     #Opening PDF
-    file = input("What is the file's path? ")
-    f = open(file, 'rb')
+    f = open(resume, 'rb')
 
     #Reading the pdf and converting to text
     pdf_reader = PyPDF2.PdfReader(f)
@@ -156,9 +156,9 @@ def dmsa():
     print("\n\n\n---------------SCORES-------------------\n\n\n")
 
     print(f"You have a {round(score3_skills*100,2)}% compatibility with the job description.\n\n")
+    return job_description
 
-    generate_llm_scores(job_description)
 
-
-parser()
-dmsa()
+parser(resume)
+job_description = dmsa()
+generate_llm_scores(job_description,resume)
